@@ -1,0 +1,113 @@
+﻿Day 1
+Using the Movie Data, 
+Write a query to show the titles and movies released in 2017 whose vote count is more than 15 and runtime is more than 100.
+
+Day 2
+Using the Pizza Data, 
+Write a query to show how many pizzas were ordered.
+
+Day 3
+Using the Pizza Data,
+Write a query to show how many successful orders were delivered by each runner.
+
+Day 4
+Using the Movie Data, 
+Write a query to show the top 10 movie titles whose language is English and French and the budget is more than 1,000,000
+
+Day 5
+Using the Pizza Data, 
+Write a query to show the number of each type of bread delivered.
+
+Day 6 
+The Briggs company wants to ship some of their products to customers in selected cities but they want to know the average days it’ll take to deliver those items to Dallas, Los Angeles, Seattle, and Madison. 
+Using the Sample superstore data, 
+Write a query to show the average delivery days to those cities. Only show the city and average delivery days columns in your output.
+
+Day 7
+You have been awesome, take a rest and chill.
+
+Day 8
+It's getting to the end of the year and the Briggs company wants to reward the customer who made the highest sales ever. 
+Using the sample superstore data, 
+Write a query to help the company identify this customer and category of business driving the sales. Let your output show the customer Name, the Category and the total sales. Round the total sales to the nearest whole number.
+
+Day 9
+The Briggs Company has 3 categories of business generating revenue for the company. They want to know which of them is driving the business. 
+Using the sample superstore data,
+Write a query to show the total sales and percentage contribution by each category. Show category, Total Sales and Percentage contribution columns in your output.
+
+Day 10
+After seeing the Sales by Category, the Briggs company became curious and wanted to dig deeper to see which subcategory is selling the most. They need the help of an analyst. 
+Please help the company to write a query to show the subcategory and the Total sales of each subcategory. Let your query display only the subcategory and the Total sales columns to see which product sells the most.
+
+Day 11
+Now that you’ve identified phones as the business driver in terms of revenue. The company wants to know the total “phones sales” by year to understand how “each year” performed. 
+As the Analyst, please help them to show the breakdown of the total sales by year in descending order. Let your output show only Total sales and sales year column.
+
+Day 12
+The Director of Analytics has requested a detailed analysis of the Briggs company. To fulfill this request, he needs you to generate a table that displays the profit margin of “each segment”. The table should include the segments, total sales, total profit and the profit margin. 
+To ensure accuracy, the profit margin should be arranged in descending order.
+
+Day 13
+As we conclude the analysis for the Briggs company, they got some reviews on their website regarding their new product. 
+Please use the Bonus table to write a query that returns only the meaningful reviews. These are reviews that are readable in English. There are two columns in the table, let your output return only the review column.
+
+Day 14
+It has been 2 weeks of squashing case studies with SQL queries. Let's have some off-screen time. Go play some games
+
+Day 15
+Your company started consulting for a Micro Bank who needs to analyze their marketing data to understand their customers better. This will help them plan their next marketing campaign. You are brought on board as the analyst for this job. They have an offer for customers who are divorced but they need data to back up the campaign. 
+Using the marketing data, write a query to show the percentage of customers who are divorced and have balances greater than 2000
+
+Day 16
+Micro Bank wants to be sure they have enough data for this campaign and would like to see the total count of each job as contained in the dataset. Using the marketing data, write a query to show the count of each job, arrange the total count in descending order
+
+Day 17
+Just for clarity purposes, your company wants to see which education level got to the management job the most. Let your output show the education, job and the count of jobs columns.
+
+Day 18
+Write a query to show the average duration of customers’ employment in management positions. The duration should be expressed in years. (Note: the duration record is in weeks)
+
+Day 19
+What's the total number of customers that have housing, loan and are single?
+
+Day 20
+Using the Movie data, write a query to show the movie title with runtime of at least 250. Show the title and runtime columns in your output
+
+Day 21
+It is No query day. Have a practice with the functions you have learnt these past days. You are on your way to being an SQL master.
+
+Day 22
+Using the Employee Data, 
+Write a query to show all the employees first name and last name and their respective salaries. Also, show the overall average salary of the company and calculate the difference between each employee's salary and the company average salary
+
+Day 23
+Using the Share price Data, 
+Write a query to show a table that displays the highest daily decrease and the highest daily increase in share price.
+
+Day 24
+Our client is planning their logistics for 2024, they want to know the average number of days it takes to ship to the top 10 states. Using the sample superstore datasets, write a query to show the state and the average number of days between the order date and the ship date to the top 10 states.
+
+Day 25
+Your company received a lot of bad reviews about some of your products lately and the management wants to see which products have been returned so far.
+Using the orders and returns table, 
+Write a query to see the top 5 most returned products.
+
+Day 26
+Using the Employee data,
+Write a query to show the ratio of the analyst job title to the entire job titles
+
+Day 27
+Using the Sample superstore data,
+Write a query to find the 3rd highest sales.
+
+Day 28
+It is another day to relaxxx..
+
+Day 29
+Using the Employee Data,
+Write a query to show the job title and department with the highest salary
+
+Day 30....It's a wrap
+Using the Employee Data,
+Write a query to determine the rank of employees based on their salaries in each department. For each department, find the employee(s) with the highest salary and rank them in descending order
